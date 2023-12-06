@@ -128,7 +128,9 @@ while True:
 
 ## Hasil Program
 ### Menambahkan data & Melihat data
-![Alt text](image.png)
+<img width="453" alt="Screenshot 2023-12-06 133522" src="https://github.com/vianirmalamahdalena05/praktikum12/assets/147572078/6b494267-1ec0-4ed5-91db-d98e54c33191">
+
 
 ### Mengubah & menghapus data
-![Alt text](image-1.png)
+<img width="479" alt="Screenshot 2023-12-06 133542" src="https://github.com/vianirmalamahdalena05/praktikum12/assets/147572078/8eb0e9cc-9a39-4022-91fd-1b3c65c14d2b">
+
